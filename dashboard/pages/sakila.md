@@ -41,7 +41,7 @@ x=category_name
 y=total_revenue
 title="Total Revenue by Category"
 swapXY=true
-colorPalette={['#86efac']}
+colorPalette={['#7dd3fc']}
 />
 
 ## Films by Rating
@@ -63,7 +63,7 @@ data={ratings}
 x=rating
 y=num_films
 title="Number of Films by Rating"
-colorPalette={['#c4b5fd']}
+colorPalette={['#7dd3fc']}
 />
 
 ## Most Popular Categories by Rentals
@@ -80,5 +80,5 @@ x=category
 y=rental_count
 title="Most Popular Categories by Rentals"
 swapXY=true
-colorPalette={['#fb923c']}
+colorPalette={['#7dd3fc']}
 />
